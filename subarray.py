@@ -10,6 +10,5 @@ def sub_lists (l):
           
     return lists
   
-# driver code
-l1 = [1, 2, 3]
+l1 = [2,7,5]
 print(sub_lists(l1))
