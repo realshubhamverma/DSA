@@ -1,7 +1,3 @@
-# Python3 program to rotate
-# a linked list counter clock wise
-  
-# Link list node
 class Node:
      
     def __init__(self):
